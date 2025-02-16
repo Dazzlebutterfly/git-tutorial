@@ -1,3 +1,3 @@
 // JavaScript Document
 console.log("Hello this is my js index.");
-console.log("Version 3");
+console.log("Version 1");
