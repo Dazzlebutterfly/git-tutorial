@@ -1,2 +1,2 @@
 // JavaScript Document
-console.log("Change.");
+console.log("Change 1.");
